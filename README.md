@@ -4,6 +4,7 @@ V dockeru je zranitelnost, ketrá způsobuje, že pokud docker běží jako root
 
 # Použití
 Spusťte následující příkazy:
+
     git clone https://github.com/moby/moby.git docker_alt
     git clone https://github.com/reudej/docker_alt.git
     make
