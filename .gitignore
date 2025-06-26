@@ -1,0 +1,13 @@
+*
+!README.md
+!.gitignore
+
+!daemon/
+daemon/*
+!daemon/securenux.go
+!daemon/oci_linux.go
+
+!profiles/
+profiles/*
+!profiles/securenux/
+!profiles/securenux/*
